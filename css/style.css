@@ -1,0 +1,149 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 1.2em;
+    color:#393d41;
+    line-height: 2em;
+    
+}
+
+header{
+    background-color: black; 
+}
+
+h1{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    line-height: 60px;
+    margin-bottom: 20px;
+    color: #25a2c3;
+    font-size: 2.4em;
+}
+#intestazione{
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    line-height: 30px;
+
+
+}
+button{
+    background-color: #f04c2f;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    min-height: 50px; 
+    min-width: 150px;
+   
+ }
+.logo{
+    width: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.banner{
+    background-size: contain;
+    background-image: url(/images/banner.jpg);
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mainsection{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.notebook{
+    border-radius: 100%;
+    ;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4em;
+    color: #25a2c3;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.bannerintermedio{
+    background-color: #f04c2f;
+    max-width: fit-content;
+    padding-top: 40px;  
+    margin-top: 25px;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.2em;
+    color:white;
+}
+.titolobanner{
+    font-size: 1.6em;
+    padding-bottom: 20px;
+}
+.bannerintermedio p{
+    color: white;
+    font-style: italic;
+    margin-bottom: 20px;
+
+    
+}
+blockquote{
+    color: white;
+    line-height: 30px;
+    
+    
+}
+.ceo{
+    margin-bottom: 30px;
+    font-size: 0.7em;
+    color: white;
+    padding-bottom: 40px;
+}
+.mainsection p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+     
+}
+.card{
+    max-width: 500px;
+    border-color: #dee1e39e;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 0.2rem;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.foto1{
+    max-width: 500px;
+ 
+}
