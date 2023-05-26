@@ -7,6 +7,7 @@
 }
 body{
     font-family: 'Open Sans', sans-serif;
+    font-size: 400;
     max-width: 500px;
     margin-left: auto;
     margin-right: auto;
@@ -151,7 +152,7 @@ blockquote{
 }
 
 footer {
-    padding-top: 30px;
+    padding-top: 40px;
     padding-bottom: 40px;
     margin-top: 50px;
     background-color: #25a2c3;
