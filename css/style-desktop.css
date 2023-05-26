@@ -163,7 +163,7 @@ blockquote{
     margin-right: auto;
 }
 .card{
- 
+    vertical-align: top;
     text-align: center;
     max-width: 500px;
     border-color: #aca9a9cb;
@@ -172,14 +172,16 @@ blockquote{
     border-radius: 0.2rem;
     margin-top: 20px;
     margin-bottom: 20px;
-  
-   
     margin-left: auto;
     margin-right: auto;
     margin-right: 30px;
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
     
+}
+.card3{
+    margin-bottom: 1.3em
+    ;
 }
 .foto1{
    max-width: 100%;
