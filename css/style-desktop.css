@@ -1,0 +1,219 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 400;
+    max-width: 1980px;
+    margin-left: auto;
+    margin-right: auto;
+  
+    font-size: 1.2em;
+    color:#393d41;
+    line-height: 2em;
+    
+}
+
+header{
+    background-color: black; 
+    max-width: 1980px;
+    max-height: 7em;
+
+    
+}
+
+h1{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    line-height: 40px;
+    margin-bottom: 20px;
+    color: #25a2c3;
+    font-size: 2.1em;
+    padding-top: 30px;
+}
+#intestazione{
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    line-height: 30px;
+    font-size: 1.2;
+
+
+}
+button{
+    background-color: #f04c2f;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    margin-top: 30px;
+    min-height: 50px; 
+    min-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+   
+ }
+.logo{
+    width: 10%;
+   padding-top: 3em;
+    padding-left: 3em;
+    padding-bottom: 3em;
+    
+}
+
+.background{
+    background-image: url(/images/banner.jpg);
+    background-size: 100vh; text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 4em;
+    background-size: 100vw;
+}
+
+   
+.mainsection{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+   
+}
+.notebook{
+    float: left;
+    border-radius: 50%;
+    margin-left: 20em;
+    margin-top: 5em;
+
+   
+}
+#contenitoretesti{
+    text-align: left;
+    display: inline-block;
+    padding-left: 11em;   
+
+}
+.ultimop{
+    margin-bottom: 5em;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4em;
+    color: #25a2c3;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.bannerintermedio{
+    text-align: center;
+    background-color: #f04c2f;
+    max-width: 100vw;
+    padding-top: 40px;  
+    margin-top: 25px;
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.2em;
+    color:white;
+}
+.titolobanner{
+    font-size: 1.6em;
+    padding-bottom: 20px;
+}
+.bannerintermedio p{
+    color: white;
+    font-style: italic;
+    margin-bottom: 20px;
+
+    
+}
+blockquote{
+    color: white;
+    line-height: 30px;
+    
+    
+}
+.ceo{
+    margin-bottom: 30px;
+    font-size: 0.7em;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.secondaparte{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card{
+ 
+    text-align: center;
+    max-width: 500px;
+    border-color: #aca9a9cb;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 0.2rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-right: 30px;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.foto1{
+   max-width: 100%;
+   max-height: 100%;
+ 
+}
+
+footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+    background-color: #25a2c3;
+    max-width: 100vw;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+ 
+}
+footer p {
+    
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.titolofooter{
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 15px;
+
+}
+hr{
+    max-width: 200px;
+}
+a{
+    color: white;
+}
+.copyright{
+    font-size: 0.8em;
+}
+.carddescription h5{
+text-align: center;
+}
